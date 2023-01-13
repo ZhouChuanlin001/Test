@@ -14,11 +14,11 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@yh/ta404-ui": "~1.5.85",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "@yh/ta404-ui": "~1.5.85",
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
     "babel-eslint": "^8.2.1",
